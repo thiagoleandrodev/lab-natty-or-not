@@ -45,6 +45,8 @@ Por fim, transformei algumas artes em vídeos curtos animados para redes sociais
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 <img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/fc118d9d-9901-44bb-a7ac-4292fb812545" />
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/ea0753e0-0def-4403-8972-139fb4ef4e2e" />
+
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
