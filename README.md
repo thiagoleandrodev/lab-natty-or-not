@@ -1,51 +1,54 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
 # Título do Projeto Extremamente Aesthetic ;)
+“Dreamscapes Lo-Fi” — capas de álbuns fictícios geradas por IA com vibe retrô-futurista
 
 ## 📒 Descrição
 Breve descrição do seu projeto
+O projeto consiste na criação de uma coleção de capas de álbuns fictícios inspiradas em estética lo-fi, vaporwave e cyberpunk suave.
+Cada capa representa uma “trilha sonora imaginária” para cidades futuristas, noites chuvosas e paisagens neon.
+
+As imagens são geradas com IA e combinadas com tipografia minimalista para criar um visual extremamente aesthetic e compartilhável em redes sociais.
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
-
+ChatGPT
+ — criação dos conceitos, nomes e prompts
+Midjourney
+ ou Leonardo AI
+ — geração das artes
+Canva
+ — composição visual e tipografia
+CapCut
+ — animações curtas para reels/tiktok
+Pinterest
+ — referência estética
+ 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
+Primeiro, defini uma identidade visual baseada em:
+
+neon
+chuva
+cidades japonesas
+fitas VHS
+música lo-fi
+tons roxos e azulados
+
+Depois, usei o ChatGPT para criar prompts detalhados como:
+
+“a rainy cyberpunk street at night, purple neon reflections, retro anime aesthetic, lo-fi album cover, cinematic lighting, ultra detailed”
+
+As imagens geradas passaram por curadoria manual, onde selecionei as mais harmoniosas visualmente.
+No Canva, adicionei títulos fictícios, grain effect e texturas VHS para reforçar o aspecto nostálgico.
+
+Por fim, transformei algumas artes em vídeos curtos animados para redes sociais.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/fc118d9d-9901-44bb-a7ac-4292fb812545" />
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
-```
+O maior desafio foi fazer as imagens parecerem “humanas” e não apenas “geradas por IA”.
+Percebi que a diferença está menos na ferramenta e mais na curadoria, composição e direção artística.
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+A IA gera possibilidades infinitas — mas o olhar criativo ainda é o que transforma algo comum em algo realmente aesthetic.
